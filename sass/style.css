@@ -214,7 +214,7 @@
 #body #Redirecciones .listaRedes {
   background-color: #4DBACE;
   border-radius: 10px;
-  padding: 40px;
+  padding: 60px;
   list-style: none;
   text-decoration: none;
   display: -webkit-box;
@@ -235,10 +235,11 @@
           animation: tracking-in-contract-bck-top 1s cubic-bezier(0.215, 0.61, 0.355, 1) 1s both;
   background-color: #9ADCFF;
   color: #ffff;
-  padding: 15px;
+  padding: 25px;
   border-radius: 50px;
   border: solid 3px;
   font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
 
 #body #Redirecciones .listaRedes .l2 {
@@ -246,10 +247,11 @@
           animation: tracking-in-contract-bck-top 1s cubic-bezier(0.215, 0.61, 0.355, 1) 1.5s both;
   background-color: #9ADCFF;
   color: #ffff;
-  padding: 15px;
+  padding: 25px;
   border-radius: 50px;
   border: solid 3px;
   font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
 
 #body #Redirecciones .listaRedes .l3 {
@@ -257,10 +259,11 @@
           animation: tracking-in-contract-bck-top 1s cubic-bezier(0.215, 0.61, 0.355, 1) 2s both;
   background-color: #9ADCFF;
   color: #ffff;
-  padding: 15px;
+  padding: 25px;
   border: solid 3px;
   border-radius: 50px;
   font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
 
 #body #Redirecciones .listaRedes #documentacion {
@@ -268,9 +271,10 @@
           animation: tracking-in-contract-bck-top 1s cubic-bezier(0.215, 0.61, 0.355, 1) 2.5s both;
   background-color: #9ADCFF;
   color: #ffff;
-  padding: 15px;
+  padding: 25px;
   border: solid 3px;
   border-radius: 50px;
   font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
 /*# sourceMappingURL=style.css.map */
