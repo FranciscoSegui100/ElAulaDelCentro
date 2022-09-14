@@ -266,9 +266,21 @@
   font-size: 20px;
 }
 
-#body #Redirecciones .listaRedes #documentacion {
+#body #Redirecciones .listaRedes .l4 {
   -webkit-animation: tracking-in-contract-bck-top 1s cubic-bezier(0.215, 0.61, 0.355, 1) 2.5s both;
           animation: tracking-in-contract-bck-top 1s cubic-bezier(0.215, 0.61, 0.355, 1) 2.5s both;
+  background-color: #9ADCFF;
+  color: #ffff;
+  padding: 25px;
+  border: solid 3px;
+  border-radius: 50px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
+
+#body #Redirecciones .listaRedes #documentacion {
+  -webkit-animation: tracking-in-contract-bck-top 1s cubic-bezier(0.215, 0.61, 0.355, 1) 3s both;
+          animation: tracking-in-contract-bck-top 1s cubic-bezier(0.215, 0.61, 0.355, 1) 3s both;
   background-color: #9ADCFF;
   color: #ffff;
   padding: 25px;

@@ -71,8 +71,18 @@
                 font-family:'Indie Flower', cursive;
                 font-size: 20px;
             }
-            #documentacion{
+            .l4{
                animation:tracking-in-contract-bck-top 1s cubic-bezier(.215,.61,.355,1.000) 2.5s both;
+               background-color: map-get($estilos, bg-color3 );
+                color: map-get($estilos, color );
+                padding: 25px;
+                border: solid 3px;
+                border-radius: 50px;
+                font-family:'Indie Flower', cursive;
+                font-size: 20px;
+            }
+            #documentacion{
+               animation:tracking-in-contract-bck-top 1s cubic-bezier(.215,.61,.355,1.000) 3s both;
                background-color: map-get($estilos, bg-color3 );
                 color: map-get($estilos, color );
                 padding: 25px;
