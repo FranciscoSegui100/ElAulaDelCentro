@@ -228,6 +228,7 @@
       -ms-flex-align: center;
           align-items: center;
   gap: 20px;
+  text-decoration: none;
 }
 
 #body #Redirecciones .listaRedes .l1 {
@@ -276,6 +277,16 @@
   border-radius: 50px;
   font-family: 'Indie Flower', cursive;
   font-size: 20px;
+}
+
+#body #Redirecciones .listaRedes .Logos {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
 }
 
 #body #Redirecciones .listaRedes #documentacion {

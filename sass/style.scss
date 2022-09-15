@@ -50,6 +50,7 @@
                 border: solid 3px;
                 font-family:'Indie Flower', cursive;
                 font-size: 20px;
+                
             }
             .l2{
                 animation:tracking-in-contract-bck-top 1s cubic-bezier(.215,.61,.355,1.000) 1.5s both;
@@ -80,6 +81,10 @@
                 border-radius: 50px;
                 font-family:'Indie Flower', cursive;
                 font-size: 20px;
+            }
+            .Logos{
+                display: flex;
+                flex-direction: column;
             }
             #documentacion{
                animation:tracking-in-contract-bck-top 1s cubic-bezier(.215,.61,.355,1.000) 3s both;
